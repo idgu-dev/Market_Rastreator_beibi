@@ -1,0 +1,29 @@
+Datos de todo el mercado
+	Bolsa española
+	Bolsa americana
+	Fondos de inversion
+	Criptos
+	Oro, Plata....
+	Forex?
+
+Buscar por nombre y por ISIN (para los fondos renta)
+
+Poder añadir tus posiciones abiertas
+
+Gestion de usuarios ufffff
+
+
+1.0:
+Interfaz:
+	-Portfolio
+	-Bolsa	
+	-Fondos
+	-Criptos
+
+Portfolio:
+	-Gráfica del balance global (Diferentes temporalidades)
+	-Porcentajes de la cartera (Diagrama de sectores)
+	-All time profit, top 3 , worst 3, balance de los 6
+	-Boton para añadir operación
+	-Lista con valores de la cartera:	
+		[Nombre, Precio actual, %variacion, Cantidad|CantidadEuros, Precio medio de compra, %balance, balance en dinero ]
